@@ -1,0 +1,27 @@
+#relate-post-types-meta-info {
+}
+	.relate-post-post-type-wrap {
+	}
+		.relate-post-post-autosuggest-wrap {
+			position:relative;
+		}
+			.relate-post-autosuggest-results {
+			}
+				.relate-post-autosuggest-results ul {
+					overflow:hidden;
+					width:400px;
+				}
+					.relate-post-autosuggest-results ul li a {
+						background-color:#fff;
+						border:1px solid #666;
+						color:#21759B;
+						display:block;
+						padding:.5em;
+						text-decoration:none;
+					}
+					
+					.relate-post-autosuggest-results ul li.active a,
+					.relate-post-autosuggest-results ul li a:hover {
+						background-color:#21759B;
+						color:#fff;	
+					}
