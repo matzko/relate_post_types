@@ -2,7 +2,7 @@
 /*
 Plugin Name:Relate Post Types
 Plugin URI: 
-Description: Associate post types with each other.
+Description: Associate WordPress post types with each other.
 Version: 1.0
 Author: Austin Matzko
 Author URI: http://austinmatzko.com
